@@ -1,2 +1,2 @@
 # miscellaneous
-miscellaneous things that I have coded
+I procrastinate too much
